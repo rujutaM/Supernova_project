@@ -1,0 +1,2 @@
+	Transient_Name	X_transient	Y_transient	X_host	Y_host	Redshift	Type	Transient_x_cutout	Transient_y_cutout	Host_x_cutout	Host_y_cutout	Transient_cdf	Detection
+0	AT2023vnw	3705.218062571749	3355.7249496275826	3706.298262885097	3356.284157261329	4.37	Unclassified	24.218062571749215	24.724949627582646	25.298262885096847	25.2841572613288	0.53	2.0
